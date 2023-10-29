@@ -410,7 +410,7 @@ This location is in Calgary. The closest park is Skyview Commons.
     <script type="text/javascript" async>
        silverBox({
 	title: {
-		text: "Success",
+		text: "Thank You!",
 		alertIcon: "success",
 	},
 	text: "Your Message has been received.\n We'll get back to you soon.",
