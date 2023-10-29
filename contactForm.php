@@ -12,14 +12,14 @@ require './PHPMailer/src/SMTP.php';
 $mail = new PHPMailer;
 
 $mail->isSMTP(); // Set mailer to use SMTP
-$mail->Host = 'mail.novellatown.ca'; // Specify main and backup SMTP servers
+$mail->Host = 'mail.novellatowns.ca'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
-$mail->Username = 'info@novellatown.ca'; // SMTP username
-$mail->Password = 'novellatown'; // SMTP password
+$mail->Username = 'info@novellatowns.ca'; // SMTP username
+$mail->Password = 'novellatowns'; // SMTP password
 $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
-$mail->setFrom('info@novellatown.ca', $_POST['name']);
+$mail->setFrom('info@novellatowns.ca', $_POST['name']);
 $mail->addAddress('milan@homebaba.ca');
 
 
@@ -53,7 +53,7 @@ $message = '<html>
         </tr>";
         $message .= "<tr>
             <td><strong>Source : </strong> </td>
-            <td>novellatown.ca</td>
+            <td>novellatowns.ca</td>
         </tr>";
         $message .= "</table>";
     $message .= "</body>
