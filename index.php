@@ -108,7 +108,7 @@
                 <div >
                 <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Novella Townhomes</span>
                 </h1>
-                <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Luxary Townhomes Coming Soon to Calgary </p>
+                <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Luxury Townhomes Coming Soon to Calgary </p>
                 </div>
             </div>
         </div>
