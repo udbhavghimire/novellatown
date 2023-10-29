@@ -26,7 +26,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
-    <meta property="og:image" content="https://novellatown.ca/Arbor-West-Homes-Community.jpg"> 
+    <meta property="og:image" content="https://novellatown.ca/novella2.jpg"> 
     <meta property="og:site_name" content="Novella Towns" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
